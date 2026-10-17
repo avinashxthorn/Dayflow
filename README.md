@@ -1,2 +1,0 @@
-# Dayflow
-Daily planner
